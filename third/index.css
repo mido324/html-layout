@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+}
+.father {
+    height: 20vh;
+}
+.header {
+    background-color: gray;
+    height: 15vh;
+    width: 100vw;
+    margin: auto;
+    padding: 10px;
+}
+.top-left {
+    background-color: blue;
+    height: 5vh;
+    width: 5vw;
+    padding: 10px;
+}
+.main-box {
+    background-color: white;
+    height: 30vh;
+    width: 100vw;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+    
+    
+}
+.blue-box {
+    background-color: rgb(76, 17, 238);
+    height: 15vh;
+    width: 100vw;
+    margin: auto;
+}
+.lt-blue-box {
+    background-color: rgb(60, 221, 233);
+    height: 15vh;
+    width: 100vw;
+    margin: auto;
+}
+.lt-green-top {
+     background-color: rgb(124, 226, 158);
+     height: 15vh;
+     width: 100vw;
+     margin: auto;
+}
+.ylw-bottom {
+     background-color: rgb(212, 233, 25);
+     height: 15vh;
+     width: 100vw;
+     margin: auto;
+}

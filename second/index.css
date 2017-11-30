@@ -1,0 +1,38 @@
+
+.top-box {
+    border: solid 2px black;
+    height: 30vh;
+    width: 95vw;
+    margin: auto;
+    padding: 10px;
+    display: inline-flex;
+      
+    
+}
+.blue-sq {
+    background: rgb(15, 18, 228);
+    width: 1px;
+    height: 10vh;
+    padding: 60px;
+    display: inline;
+    
+}
+.green-sq {
+    background: rgb(22, 158, 63);
+    width: 20vw;
+    height: 5vh;
+    padding: 60px;
+    border: solid 2px;
+    display: inline;
+    margin-left: 30px;
+    
+
+}
+.blue-cy {
+    background-color: lightskyblue;
+    border-radius: 100px;
+    
+    height: 150px;
+    width: 150px;
+    margin-left: 30px;
+}
